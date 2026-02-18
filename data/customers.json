@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "  Budi Santoso  ",
+    "email": "budi.santoso@email.com",
+    "city": "jakarta",
+    "joinDate": "2024-06-15",
+    "membershipLevel": "Gold"
+  },
+  {
+    "id": 2,
+    "name": "Siti Rahayu",
+    "email": "siti.rahayu@email.com",
+    "city": "BANDUNG",
+    "joinDate": "2024-08-20",
+    "membershipLevel": "Silver"
+  },
+  {
+    "id": 3,
+    "name": "Andi Wijaya  ",
+    "email": "andi.wijaya@email.com",
+    "city": "surabaya",
+    "joinDate": "2024-09-10",
+    "membershipLevel": "Gold"
+  },
+  {
+    "id": 4,
+    "name": "Dewi Lestari",
+    "email": "dewi.lestari@email.com",
+    "city": "Yogyakarta",
+    "joinDate": "2024-11-01",
+    "membershipLevel": null
+  },
+  {
+    "id": 5,
+    "name": "  Rizky Pratama",
+    "email": "rizky.pratama@email.com",
+    "city": "jakarta",
+    "joinDate": "2025-01-05",
+    "membershipLevel": "Bronze"
+  },
+  {
+    "id": 6,
+    "name": "Putri Amelia  ",
+    "email": "putri.amelia@email.com",
+    "city": "bandung",
+    "joinDate": "2025-02-10",
+    "membershipLevel": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "  Samsung Galaxy S24 Ultra  ",
+    "category": "ELECTRONICS",
+    "price": 19999000,
+    "stock": 25,
+    "brand": "Samsung",
+    "rating": 4.8,
+    "description": "Flagship smartphone with S Pen and advanced AI features"
+  },
+  {
+    "id": 2,
+    "name": "nike air force 1",
+    "category": "fashion",
+    "price": 1599000,
+    "stock": 50,
+    "brand": "Nike",
+    "rating": 4.5,
+    "description": "Classic sneakers with timeless design"
+  },
+  {
+    "id": 3,
+    "name": "ASUS ROG Strix G16  ",
+    "category": "electronics",
+    "price": 24999000,
+    "stock": 10,
+    "brand": "ASUS",
+    "rating": 4.7,
+    "description": "Gaming laptop with RTX 4060 and 16GB RAM"
+  },
+  {
+    "id": 4,
+    "name": "Wardah UV Shield",
+    "category": "Beauty",
+    "price": 45000,
+    "stock": 200,
+    "brand": "Wardah",
+    "rating": 4.3,
+    "description": "Sunscreen with SPF 50 PA++++ protection"
+  },
+  {
+    "id": 5,
+    "name": "  Erigo T-Shirt Basic  ",
+    "category": "FASHION",
+    "price": 129000,
+    "stock": 150,
+    "brand": null,
+    "rating": 4.0,
+    "description": "Comfortable cotton t-shirt for everyday wear"
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-1000XM5",
+    "category": "Electronics",
+    "price": 4999000,
+    "stock": 30,
+    "brand": "Sony",
+    "rating": null,
+    "description": "Premium noise-canceling wireless headphones"
+  },
+  {
+    "id": 7,
+    "name": "Somethinc Niacinamide Serum",
+    "category": "beauty",
+    "price": 89000,
+    "stock": 100,
+    "brand": "Somethinc",
+    "rating": 4.6,
+    "description": "Brightening serum with 10% Niacinamide"
+  },
+  {
+    "id": 8,
+    "name": "Adidas Ultraboost 22",
+    "category": "Fashion",
+    "price": 2799000,
+    "stock": 35,
+    "brand": "Adidas",
+    "rating": 4.4,
+    "description": "Running shoes with responsive Boost cushioning"
+  },
+  {
+    "id": 9,
+    "name": "Logitech MX Master 3S",
+    "category": "electronics",
+    "price": 1499000,
+    "stock": 45,
+    "brand": "Logitech",
+    "rating": 4.9,
+    "description": "Ergonomic wireless mouse for productivity"
+  },
+  {
+    "id": 10,
+    "name": "Skintific 5X Ceramide Moisturizer",
+    "category": "BEAUTY",
+    "price": 149000,
+    "stock": 80,
+    "brand": null,
+    "rating": 4.5,
+    "description": "Barrier repair moisturizer with ceramide complex"
+  },
+  {
+    "id": 11,
+    "name": "  Apple iPad Air M1  ",
+    "category": "electronics",
+    "price": 9499000,
+    "stock": 15,
+    "brand": "Apple",
+    "rating": 4.8,
+    "description": "Tablet with M1 chip and 10.9-inch Liquid Retina display"
+  },
+  {
+    "id": 12,
+    "name": "Eiger Daypack 22L",
+    "category": "fashion",
+    "price": 459000,
+    "stock": 60,
+    "brand": "Eiger",
+    "rating": 4.2,
+    "description": "Durable outdoor backpack for daily adventures"
+  },
+  {
+    "id": 13,
+    "name": "  Samsung Galaxy S24 Ultra  ",
+    "category": "ELECTRONICS",
+    "price": 19999000,
+    "stock": 25,
+    "brand": "Samsung",
+    "rating": 4.8,
+    "description": "Flagship smartphone with S Pen and advanced AI features (DUPLICATE)"
+  }
+]
